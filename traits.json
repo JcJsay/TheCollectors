@@ -1,9 +1,9 @@
 {
-    "HEAD": ["banana hair", "hat", "cap", "BAYC cap", "construction helmet"],
+    "HEAD": ["BANANA HAIR", "hat", "cap", "BAYC cap", "construction helmet"],
     "BACKGROUND": ["white", "purple", "orange", "red"],
-    "EYES": ["glasses", "dead", "chocked", "basic"],
-    "MOUTH": ["smile", "sad", "cigare"],
+    "EYES": ["GLASSES", "dead", "chocked", "basic"],
+    "MOUTH": ["SMILE STAR", "sad", "cigare"],
     "WEAR": ["suit", ""],
-    "SKIN": ["basic", "alien"],
+    "SKIN": ["BASIC", "alien"],
     "SPECIAL": []
 }
